@@ -7,3 +7,12 @@ banks and 96,000 rural cooperative banks in addition to cooperative credit insti
 As of November 2020, the total number of ATMs in India increased to 209,282.
 
 There are 470135 ATMs in the US.
+
+Usually with a traditional bank or financial institution, common people do these operations:
+- Creat account after extensive KYC
+- Deposit money
+- Withdraw money
+- Invest money
+- Pay bills
+- Send money
+- Receive money
